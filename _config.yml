@@ -310,4 +310,4 @@ page404:
     homePageUrl: '/'
     homePageName: 回到我的主页
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
